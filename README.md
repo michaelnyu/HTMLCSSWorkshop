@@ -46,7 +46,8 @@ Easy!  Navigate to in your terminal to your directory that is linked to the repo
 
 "ls" in terminal and you should see your files for your webpage.
 
-type
-"git add --all" (again, 2 dashes)
-"git commit "whatever_you_did" "
-"git push origin master"
+type:
+
+1. "git add --all" (again, 2 dashes)
+2. "git commit -m "whatever_you_did" "
+3. "git push origin master"
