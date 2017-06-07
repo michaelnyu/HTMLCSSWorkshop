@@ -1,15 +1,13 @@
-# HTMLCSSWorkshop
+## HTMLCSSWorkshop
 Spring 2017 - Creative Labs - HTML &amp; CSS Workshop
 
 Check out what we did in our first workshop - under branch "starter_pack".
 
-HTML & CSS Workshop Start Pack
-
-Description
+## Description
 
 This is a quick-start template for a basic personal webpage. Created for Creative Lab's HTML & CSS Workshop - Spring 2017.
 
-How to use
+## How to use
 
 Click Green box in upper right-hand corner that is labeled: "Clone or Download".
 
@@ -43,7 +41,7 @@ And, we are in business baby.
 
 All we have to do now is go into our settings in the repository (on your browser), and enable "github pages" to read from the master branch.
 
-I made some changes, how do I update my github repository??!?!??!?!
+## I made some changes, how do I update my github repository??!?!??!?!
 
 Easy! Navigate to in your terminal to your directory that is linked to the repository.
 
